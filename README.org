@@ -1,0 +1,43 @@
+* Referencias
+** Oficiales
+   1. https://rdrr.io/cran/rattle/man/fancyRpartPlot.html
+** Libros
+   1. https://greenteapress.com/thinkstats/
+   2. https://genes.bibli.fr/doc_num.php?explnum_id=17689
+** Alternativas a R
+   1. https://julia.quantecon.org/intro.html
+   2. https://juliaeconomics.com/
+** Proyectos
+   1. https://github.com/bbc/bbplot
+** Probabilidad y Estadística
+   1. https://statologos.com/leer-interpretar-tabla-de-regresion/
+** Economía
+   2. https://libguides.bates.edu/r/r-for-economics
+   3. https://hhsievertsen.github.io/applied_econ_with_r/
+** Ejemplos
+   1. https://datanalytics.com/libro_r/ejemplos.html
+   2. https://repository.usergioarboleda.edu.co/bitstream/handle/11232/1230/Ejemplos%20de%20estad%C3%ADstica%20b%C3%A1sica%20R.pdf?sequence=1&isAllowed=y
+** Youtube
+   #+BEGIN_COMMENT
+   r programacion arbol estadisticas
+   r for statistics tree
+   #+END_COMMENT
+   1. https://www.youtube.com/watch?v=t0lmtrm_aa0&ab_channel=RafaGonzalezGouveia
+   2. https://www.youtube.com/watch?v=FyAOTkCXtzM&ab_channel=RocioChavezCienciadeDatos
+   3. https://www.youtube.com/watch?v=oX9gbMsbvFU&ab_channel=NarenCastellon
+** Otros
+   #+BEGIN_COMMENT
+   Tutoriales
+   3. https://swirlstats.com/
+   1. http://www.milbo.org/rpart-plot/prp.pdf
+   2. https://fervilber.github.io/Aprendizaje-supervisado-en-R/bosques.html
+
+   Instalación
+   1. https://computingforgeeks.com/how-to-install-r-and-rstudio-on-ubuntu-debian-mint/
+   2. http://www.cureffi.org/2014/01/15/running-r-batch-mode-linux/
+
+   Graficar
+   1. https://plotly.com/r/using-r-in-jupyter-notebooks/
+   2. https://stackoverflow.com/questions/24147139/plotting-in-r-in-linux-terminal
+   3. https://stackoverflow.com/questions/42921010/how-to-draw-straight-edged-decision-trees-in-data-tree
+   #+END_COMMENT
